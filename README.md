@@ -3,9 +3,9 @@ There are often times when humans need information, but a presented with a docum
 The Stanford NLP parser generates a list of dependencies for a natural language sentence, and can do this for a set of documents. The script "finalproject.sh" gets an argument of a text file containing a document to query and processes it using the Stanford NLP parser. The script then uses a set of input-queries, written in plain English in a text file ("inputqueries.txt") to go through the dependencies and answer questions about the document.
 Currently the method is more of a proof of concept. There are some flaws, such as not being able to process information across sentences (such as a pronoun referring to something a couple sentences back), but it can extract relevant information to a query.
 The script requires:
--bash
--python 3.5
-	-NLTK Module
--Stanford Parser 2015
-  -settings in the NLP Parser script to allow 1000m memory.
--SWI-Prolog 7.2.3
+* bash
+* python 3.5
+* NLTK Module
+* Stanford Parser 2015
+* settings in the NLP Parser script to allow 1000m memory.
+* SWI-Prolog 7.2.3
