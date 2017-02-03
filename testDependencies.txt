@@ -1,0 +1,51 @@
+advmod(reveal-3, •-1).
+nsubj(reveal-3, we-2).
+root(root-0, reveal-3).
+advmod(digits-8, only-4).
+det(digits-8, the-5).
+amod(digits-8, last-6).
+nummod(digits-8, four-7).
+dobj(reveal-3, digits-8).
+case(numbers-13, of-9).
+nmod:poss(numbers-13, your-10).
+compound(numbers-13, credit-11).
+compound(numbers-13, card-12).
+nmod:of(digits-8, numbers-13).
+advmod(confirming-15, when-14).
+advcl(reveal-3, confirming-15).
+det(order-17, an-16).
+dobj(confirming-15, order-17).
+
+
+nsubj(collect-2, we-1).
+root(root-0, collect-2).
+nmod:poss(information-4, your-3).
+dobj(collect-2, information-4).
+
+
+nsubj(gather-2, we-1).
+root(root-0, gather-2).
+nmod:poss(data-4, your-3).
+dobj(gather-2, data-4).
+
+
+nsubj(save-2, we-1).
+root(root-0, save-2).
+nmod:poss(email-4, your-3).
+dobj(save-2, email-4).
+
+
+nsubj(save-4, we-1).
+aux(save-4, do-2).
+neg(save-4, not-3).
+root(root-0, save-4).
+dobj(save-4, cookies-5).
+
+
+nmod:poss(number-3, your-1).
+compound(number-3, phone-2).
+nsubjpass(collected-6, number-3).
+aux(collected-6, will-4).
+auxpass(collected-6, be-5).
+root(root-0, collected-6).
+

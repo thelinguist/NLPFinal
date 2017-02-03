@@ -1,0 +1,59 @@
+
+advmod(use-4, how-1).
+aux(use-4, do-2).
+nsubj(use-4, they-3).
+root(root-0, use-4).
+det(information-6, the-5).
+dobj(use-4, information-6).
+
+
+dobj(collect-4, what-1).
+aux(collect-4, do-2).
+nsubj(collect-4, they-3).
+root(root-0, collect-4).
+
+
+nmod:with(share-4, who-1).
+aux(share-4, do-2).
+nsubj(share-4, they-3).
+root(root-0, share-4).
+det(information-6, this-5).
+dobj(share-4, information-6).
+case(who-1, with-7).
+
+
+aux(save-3, do-1).
+nsubj(save-3, they-2).
+root(root-0, save-3).
+dobj(save-3, cookies-4).
+
+
+nsubjpass(stored-3, what-1).
+auxpass(stored-3, is-2).
+root(root-0, stored-3).
+case(cookies-5, in-4).
+nmod:in(stored-3, cookies-5).
+
+
+aux(delete-3, will-1).
+nsubj(delete-3, they-2).
+root(root-0, delete-3).
+dobj(delete-3, data-4).
+
+
+aux(release-3, will-1).
+nsubj(release-3, they-2).
+root(root-0, release-3).
+dobj(release-3, data-4).
+case(authorities-6, to-5).
+nmod:to(release-3, authorities-6).
+
+
+dobj(reveal-4, what-1).
+aux(reveal-4, do-2).
+nsubj(reveal-4, they-3).
+root(root-0, reveal-4).
+case(cards-8, about-6).
+compound(cards-8, credit-7).
+dep(reveal-4, cards-8).
+

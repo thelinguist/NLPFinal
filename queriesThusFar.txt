@@ -1,0 +1,317 @@
+They
+root(root-0, use-4).
+dobj(use-4, information-6).
+??
+pos: 4
+
+They
+root(root-0, collect-5).
+dobj(collect-5, information-2).
+case(me-7, from-6).
+??
+pos: 5
+
+They
+root(root-0, share-4).
+dobj(share-4, information-6).
+case(who-1, with-7).
+??
+pos: 4
+
+They
+root(root-0, write-3).
+dobj(save-3, cookies-4).
+??
+pos: 3
+
+They
+root(root-0, store-4).
+case(cookies-7, in-5).
+??
+pos: 4
+
+They
+root(root-0, edit-3).
+dobj(delete-3, data-5).
+??
+pos: 3
+
+They
+root(root-0, unblock-3).
+dobj(release-3, data-5).
+case(authorities-7, to-6).
+??
+pos: 3
+
+They
+root(root-0, use-4).
+dobj(use-4, information-6).
+??
+pos: 4
+
+They
+root(root-0, use-4).
+dobj(use-4, information-6).
+??
+pos: 4
+
+They
+root(root-0, use-4).
+dobj(use-4, information-6).
+??
+pos: 4
+
+They
+root(root-0, use-4).
+dobj(use-4, information-6).
+??
+pos: 4
+
+They
+root(root-0, use-4).
+dobj(use-4, information-6).
+??
+pos: 4
+
+They
+root(root-0, use-4).
+dobj(use-4, information-6).
+??
+pos: 4
+
+They
+root(root-0, collect-5).
+dobj(collect-5, information-2).
+case(me-7, from-6).
+??
+pos: 5
+
+They
+root(root-0, collect-5).
+dobj(collect-5, information-2).
+case(me-7, from-6).
+??
+pos: 5
+
+They
+root(root-0, collect-5).
+dobj(collect-5, information-2).
+case(me-7, from-6).
+??
+pos: 5
+
+They
+root(root-0, collect-5).
+dobj(collect-5, information-2).
+case(me-7, from-6).
+??
+pos: 5
+
+They
+root(root-0, collect-5).
+dobj(collect-5, information-2).
+case(me-7, from-6).
+??
+pos: 5
+
+They
+root(root-0, share-4).
+dobj(share-4, information-6).
+case(who-1, with-7).
+??
+pos: 4
+
+They
+root(root-0, share-4).
+dobj(share-4, information-6).
+case(who-1, with-7).
+??
+pos: 4
+
+They
+root(root-0, share-4).
+dobj(share-4, information-6).
+case(who-1, with-7).
+??
+pos: 4
+
+They
+root(root-0, share-4).
+dobj(share-4, information-6).
+case(who-1, with-7).
+??
+pos: 4
+
+They
+root(root-0, share-4).
+dobj(share-4, information-6).
+case(who-1, with-7).
+??
+pos: 4
+
+They
+root(root-0, write-3).
+dobj(save-3, cookies-4).
+??
+pos: 3
+
+They
+root(root-0, write-3).
+dobj(save-3, cookies-4).
+??
+pos: 3
+
+They
+root(root-0, write-3).
+dobj(save-3, cookies-4).
+??
+pos: 3
+
+They
+root(root-0, write-3).
+dobj(save-3, cookies-4).
+??
+pos: 3
+
+They
+root(root-0, write-3).
+dobj(save-3, cookies-4).
+??
+pos: 3
+
+They
+root(root-0, write-3).
+dobj(save-3, cookies-4).
+??
+pos: 3
+
+They
+root(root-0, write-3).
+dobj(save-3, cookies-4).
+??
+pos: 3
+
+They
+root(root-0, write-3).
+dobj(save-3, cookies-4).
+??
+pos: 3
+
+They
+root(root-0, write-3).
+dobj(save-3, cookies-4).
+??
+pos: 3
+
+They
+root(root-0, write-3).
+dobj(save-3, cookies-4).
+??
+pos: 3
+
+They
+root(root-0, write-3).
+dobj(save-3, cookies-4).
+??
+pos: 3
+
+They
+root(root-0, store-4).
+case(cookies-7, in-5).
+??
+pos: 4
+
+They
+root(root-0, store-4).
+case(cookies-7, in-5).
+??
+pos: 4
+
+They
+root(root-0, edit-3).
+dobj(delete-3, data-5).
+??
+pos: 3
+
+They
+root(root-0, edit-3).
+dobj(delete-3, data-5).
+??
+pos: 3
+
+They
+root(root-0, edit-3).
+dobj(delete-3, data-5).
+??
+pos: 3
+
+They
+root(root-0, unblock-3).
+dobj(release-3, data-5).
+case(authorities-7, to-6).
+??
+pos: 3
+
+They
+root(root-0, unblock-3).
+dobj(release-3, data-5).
+case(authorities-7, to-6).
+??
+pos: 3
+
+They
+root(root-0, unblock-3).
+dobj(release-3, data-5).
+case(authorities-7, to-6).
+??
+pos: 3
+
+They
+root(root-0, unblock-3).
+dobj(release-3, data-5).
+case(authorities-7, to-6).
+??
+pos: 3
+
+They
+root(root-0, unblock-3).
+dobj(release-3, data-5).
+case(authorities-7, to-6).
+??
+pos: 3
+
+They
+root(root-0, unblock-3).
+dobj(release-3, data-5).
+case(authorities-7, to-6).
+??
+pos: 3
+
+They
+root(root-0, unblock-3).
+dobj(release-3, data-5).
+case(authorities-7, to-6).
+??
+pos: 3
+
+They
+root(root-0, unblock-3).
+dobj(release-3, data-5).
+case(authorities-7, to-6).
+??
+pos: 3
+
+They
+root(root-0, unblock-3).
+dobj(release-3, data-5).
+case(authorities-7, to-6).
+??
+pos: 3
+
+They
+root(root-0, unblock-3).
+dobj(release-3, data-5).
+case(authorities-7, to-6).
+??
+pos: 3
+

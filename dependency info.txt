@@ -1,0 +1,8 @@
+current dependencies:
+-bash
+-python 3.5
+	-NLTK
+-Stanford Parser 2015
+-SWI-Prolog 7.2.3
+
+-1000m memory for Stanford Dependency Parser
