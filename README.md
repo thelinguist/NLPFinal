@@ -9,3 +9,8 @@ The script requires:
 * Stanford Parser 2015
 * settings in the NLP Parser script to allow 1000m memory.
 * SWI-Prolog 7.2.3
+## Authors
+* Me
+## Acknowledgements
+* [Stanford NLP Parser](nlp.stanford.edu) for the powerful NLP toolset
+* Dr. Lonsdale at BYU for the guidance
