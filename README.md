@@ -10,8 +10,20 @@ Currently the method is more of a proof of concept. There are some flaws, such a
 * settings in the NLP Parser script to allow 1000m memory.
 * SWI-Prolog 7.2.3
 
+## Instructions
+Create a directory with the above dependencies. 
+Edit the NLP Parser script to allow more memory for the project (1000m is good). 
+Specify your questions in a new line in a file called `inputqueries.txt` which might look something like this:
+```
+What can this program learn?
+Who is the President of the United States?
+```
+specify input files. The input files currently reside in the Privacy Policy folders as .txt files
+run the bash script `finalproject.sh`
+it will generate some files, being a proof of concept, and generate `finally.txt` containing the answers to questions in a Prologue language format.
+
 ## Authors
-* Me
+* Myself
 
 ## Acknowledgements
 * [Stanford NLP Parser](nlp.stanford.edu) for the powerful NLP toolset
