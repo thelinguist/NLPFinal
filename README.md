@@ -22,8 +22,21 @@ specify input files. The input files currently reside in the Privacy Policy fold
 run the bash script `finalproject.sh`
 it will generate some files, being a proof of concept, and generate `finally.txt` containing the answers to questions in a Prologue language format.
 
+# Overview
+The steps are as follows, in pseudocode steps:
+
+Start at `finalProject.sh`.
+1. Stanford Parser parses the questions into treebank prolog statements
+2. A quick filter function happens to organize the data
+3. (Run Stanford NLP parser on the corpus in the `PrivacyPolicies` folder)
+4. Run manual query building (see line 279)
+    1. Identify semantic relationships, and include synonyms as defined by NLTK word net
+    2. (I only did one grammatical rule at the time): for all sentences in the document with direct objects, see if a prolog statement from the questions matches a prolog statement from the corpus (or it’s semantic equivalent)
+Thus, using grammar you can identify when an entity was doing an action with user-data. In addition, you can broaden the search with semantic equivalents (synonyms).
+
+
 ## Authors
-* Myself
+* Bryce Shelley
 
 ## Acknowledgements
 * [Stanford NLP Parser](nlp.stanford.edu) for the powerful NLP toolset
